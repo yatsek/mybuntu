@@ -12,6 +12,7 @@ LIST="mc vim-gnome \
       fonts-croscore \
       retext \
       moreutils \
+      silversearcher-ag \
       ccache \
       qtcreator qtcreator-plugin-ubuntu-common qtcreator-plugin-ubuntu-autopilot qtcreator-plugin-ubuntu qtcreator-plugin-go"
 
